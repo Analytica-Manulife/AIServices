@@ -307,7 +307,7 @@ def main():
 
     # Option 1: OpenAI
     api_key = os.getenv("NEWS_ANALYZER_KEY")
-    parser = LLMNewsParser(api_key="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", model_provider="openai")
+    parser = LLMNewsParser(api_key=api_key, model_provider="openai")
 
     # Option 2: Anthropic Claude
     # parser = LLMNewsParser(api_key="your-anthropic-api-key", model_provider="anthropic")
