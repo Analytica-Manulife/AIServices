@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "Jul 18 2020",
+    "headline": "TikTok considers London and other locations for headquarters",
+    "description": "TikTok has been in discussions with the UK government over the past few months to locate its headquarters in London, a source familiar with the matter said, as part of a strategy to distance itself from its Chinese ownership.",
+    "company_name": "TikTok",
+    "ticker": "PRIVATE",
+    "sentiment": "positive",
+    "sentiment_score": 0.6,
+    "key_themes": [
+      "TikTok headquarters relocation",
+      "London as potential location",
+      "Chinese ownership distancing"
+    ],
+    "confidence": 0.8,
+    "full_text": "TikTok considers London and other locations for headquarters TikTok has been in discussions with the UK government over the past few months to locate its headquarters in London, a source familiar with the matter said, as part of a strategy to distance itself from its Chinese ownership.",
+    "processed_date": "2025-05-17T20:12:07.416962"
+  }
+]

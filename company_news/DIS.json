@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "Jul 18 2020",
+    "headline": "Disney cuts ad spending on Facebook amid growing boycott: WSJ",
+    "description": "Walt Disney  has become the latest company to slash its advertising spending on Facebook Inc  as the social media giant faces an ad boycott over its handling of hate speech and controversial content, the Wall Street Journal reported on Saturday, citing people familiar with the situation.",
+    "company_name": "Walt Disney Company",
+    "ticker": "DIS",
+    "sentiment": "negative",
+    "sentiment_score": -0.8,
+    "key_themes": [
+      "ad spending",
+      "Facebook boycott",
+      "hate speech",
+      "controversial content"
+    ],
+    "confidence": 0.9,
+    "full_text": "Disney cuts ad spending on Facebook amid growing boycott: WSJ Walt Disney  has become the latest company to slash its advertising spending on Facebook Inc  as the social media giant faces an ad boycott over its handling of hate speech and controversial content, the Wall Street Journal reported on Saturday, citing people familiar with the situation.",
+    "processed_date": "2025-05-17T20:12:08.951175"
+  }
+]

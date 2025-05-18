@@ -1,0 +1,5 @@
+Flask
+flasgger
+azure-storage-blob
+azure-ai-documentintelligence
+werkzeug

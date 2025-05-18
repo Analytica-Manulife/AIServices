@@ -1,0 +1,19 @@
+[
+  {
+    "timestamp": "Jul 18 2020",
+    "headline": "Twitter says attackers downloaded data from up to eight non-verified accounts",
+    "description": "Twitter Inc said on Saturday that hackers were able to download account information for up to eight accounts involved in the hack of its systems this week, but said none of them were verified accounts.",
+    "company_name": "Twitter Inc.",
+    "ticker": "TWTR",
+    "sentiment": "negative",
+    "sentiment_score": -0.5,
+    "key_themes": [
+      "data breach",
+      "hack",
+      "account information"
+    ],
+    "confidence": 0.8,
+    "full_text": "Twitter says attackers downloaded data from up to eight non-verified accounts Twitter Inc said on Saturday that hackers were able to download account information for up to eight accounts involved in the hack of its systems this week, but said none of them were verified accounts.",
+    "processed_date": "2025-05-17T20:12:12.035039"
+  }
+]
