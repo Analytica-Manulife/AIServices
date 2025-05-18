@@ -306,8 +306,7 @@ def main():
     """Main function with examples for different LLM providers"""
 
     # Option 1: OpenAI
-    api_key = os.getenv("NEWS_ANALYZER_KEY")
-    parser = LLMNewsParser(api_key=api_key, model_provider="openai")
+    parser = LLMNewsParser(api_key=os.getenv("NEWS_ANALYZER_KEY"), model_provider="openai")
 
     # Option 2: Anthropic Claude
     # parser = LLMNewsParser(api_key="your-anthropic-api-key", model_provider="anthropic")
